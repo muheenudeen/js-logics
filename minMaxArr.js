@@ -11,19 +11,19 @@
 
  //using loop
 
- const findNumber=(nums)=>{
-    let min=arr[0]
-    let max=arr[0]
+//  const findNumber=(nums)=>{
+//     let min=arr[0]
+//     let max=arr[0]
 
-    for(let i=1;i<nums.length;i++){
+//     for(let i=1;i<nums.length;i++){
         
-        if(arr[i]<min)min = arr[i];
+//         if(arr[i]<min)min = arr[i];
 
-        if(arr[i>max])max = arr[i]
-    }
+//         if(arr[i>max])max = arr[i]
+//     }
 
-    return {min,max}
- }
+//     return {min,max}
+//  }
 
-console.log(findNumber([1,2,3,4,32334,34134,4,5]));
+// console.log(findNumber([1,2,3,4,32334,34134,4,5]));
  
