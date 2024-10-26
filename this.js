@@ -9,3 +9,5 @@ function greet(greeting) {
 
 // Using `call` to set `this` to `person`
 greet.call(person, "Hello"); // Output: "Hello, John Doe"
+
+
