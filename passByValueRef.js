@@ -23,4 +23,4 @@ function changeValue(val) {
 }
 
 changeValue(x);
-console.log("Outside function:", x); // Outputs: Outside function: 10
+console.log("Outside efunction:", x); // Outputs: Outside function: 10
